@@ -1,9 +1,8 @@
-![](https://img-blog.csdnimg.cn/20200530222628564.png)
-
-
 ## 笔记初始界面
 ![](https://img-blog.csdnimg.cn/20200601135114245.png)
+
 1. 可以新建笔记
+
 ![](https://img-blog.csdnimg.cn/20200601135349474.png)
 2. 此外还可以对笔记进行编辑,以及显示当前所拥有的笔记列表
 ## 扩展功能
